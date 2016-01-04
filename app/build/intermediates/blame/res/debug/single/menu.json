@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "E:\\jubaom\\app\\src\\main\\res\\menu\\menu_main.xml"
     }

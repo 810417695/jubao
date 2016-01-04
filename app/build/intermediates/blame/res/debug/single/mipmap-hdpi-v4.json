@@ -1,10 +1,18 @@
 [
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\jubao\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\logo.png",
         "source": "E:\\jubaom\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
     },
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "E:\\jubaom\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\logo.png",
+        "source": "E:\\jubao\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
     }
 ]
