@@ -1,0 +1,172 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/top_height"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <LinearLayout
+            android:id="@+id/fenlei"
+            android:layout_marginTop="@dimen/top_bottom"
+            android:layout_marginBottom="@dimen/top_bottom"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fenlei"/>
+            <TextView
+                android:layout_marginTop="@dimen/top_tubiao_zi_margintop"
+                android:textColor="@color/dingdan_ziti_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fenlei"/>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_weight="5"
+            android:gravity="center_vertical"
+            android:id="@+id/zhanghao_R"
+            android:layout_marginTop="@dimen/top_bottom"
+            android:layout_marginBottom="@dimen/top_bottom"
+            android:layout_width="wrap_content"
+            android:background="@drawable/shape"
+            android:layout_height="@dimen/sousuo_K">
+
+            <ImageView
+                android:src="@drawable/fangdajing"
+                android:id="@+id/zhanghao_txt"
+                android:textColor="@color/login_text_color"
+                android:textSize="18sp"
+                android:layout_marginLeft="@dimen/text_left_right"
+                android:layout_marginRight="@dimen/text_left_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login_zhanghao"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <EditText
+                android:hint="@string/qsrspmc"
+                android:background="@null"
+                android:layout_toRightOf="@+id/zhanghao_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/paixu"
+            android:layout_marginTop="@dimen/top_bottom"
+            android:layout_marginBottom="@dimen/top_bottom"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/paixu"/>
+            <TextView
+                android:layout_marginTop="@dimen/top_tubiao_zi_margintop"
+                android:textColor="@color/dingdan_ziti_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/paixu"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/add_shangpin"
+            android:layout_marginTop="@dimen/top_bottom"
+            android:layout_marginBottom="@dimen/top_bottom"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/add_shangpin2"/>
+            <TextView
+                android:layout_marginTop="@dimen/top_tubiao_zi_margintop"
+                android:textColor="@color/dingdan_ziti_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tianjia"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="@color/xian"/>
+    <RadioGroup
+        android:gravity="right"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp">
+        <RadioButton
+            android:textColor="@color/red"
+            android:checked="true"
+            android:button="@null"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/chushouzhong_rb"
+            android:background="@drawable/dingdan_rb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/chushouzhong" />
+        <RadioButton
+            android:textColor="@color/dingdan_ziti_color"
+            android:button="@null"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/cangkuzhong_rb"
+            android:background="@drawable/dingdan_rb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cangkuzhong"/>
+        <RadioButton
+            android:textColor="@color/dingdan_ziti_color"
+            android:button="@null"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:id="@+id/wentishangpin_rb"
+            android:background="@drawable/dingdan_rb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wentishangpin" />
+
+    </RadioGroup>
+
+    <!--ListView-->
+
+        <ListView
+            android:id="@+id/demo_layout"
+            android:visibility="visible"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"></ListView>
+
+    <!--分类-->
+        <ListView
+            android:visibility="gone"
+            android:id="@+id/fenlei_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"></ListView>
+
+    <!--排序-->
+        <ListView
+            android:visibility="gone"
+            android:id="@+id/paixu_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"></ListView>
+
+</LinearLayout>

@@ -1,0 +1,150 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/Top"
+        android:background="@color/white"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/top_height"
+        android:gravity="center_vertical">
+        <RelativeLayout
+            android:id="@+id/fanhui"
+            android:paddingLeft="@dimen/fanhui_padding_left"
+            android:paddingRight="@dimen/fanhui_padding_right"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical">
+            <ImageView
+                android:id="@+id/finsh"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fanhui"/>
+        </RelativeLayout>
+        <TextView
+            android:textColor="@color/login_text_color"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/top_bottom"
+            android:layout_marginBottom="@dimen/top_bottom"
+            android:text="@string/zhuce"
+            android:textSize="@dimen/login_title_size"
+            android:layout_marginRight="@dimen/ding_Right"
+            android:layout_toRightOf="@+id/fanhui"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        </TextView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bg"
+        android:background="@color/Background"
+        android:layout_below="@+id/souSuo_Top"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <RelativeLayout
+            android:gravity="center_vertical"
+            android:id="@+id/zhanghao_R"
+            android:layout_marginLeft="@dimen/fanhui_padding_left"
+            android:layout_marginRight="@dimen/fanhui_padding_left"
+            android:layout_marginTop="@dimen/K_top"
+            android:layout_width="fill_parent"
+            android:background="@drawable/shape"
+            android:layout_height="@dimen/K_height">
+
+            <ImageView
+                android:src="@drawable/phone"
+                android:id="@+id/zhanghao_txt"
+                android:textColor="@color/login_text_color"
+                android:textSize="18sp"
+                android:layout_marginLeft="@dimen/text_left_right"
+                android:layout_marginRight="@dimen/text_left_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login_zhanghao"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <EditText
+                android:hint="@string/qing_phone"
+                android:id="@+id/user"
+                android:background="@null"
+                android:layout_toRightOf="@+id/zhanghao_txt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_below="@+id/zhanghao_R"
+            android:id="@+id/yanzhengma_R"
+            android:layout_marginLeft="@dimen/fanhui_padding_left"
+            android:layout_marginRight="@dimen/fanhui_padding_left"
+            android:layout_marginTop="@dimen/K_top"
+            android:layout_width="fill_parent"
+
+            android:layout_height="@dimen/K_height">
+
+            <EditText
+                android:background="@drawable/shape"
+                android:id="@+id/yanzhengma_txt"
+                android:textColor="@color/zhuce_about_color"
+                android:textSize="18sp"
+                android:layout_marginRight="@dimen/text_left_right"
+                android:layout_width="150dp"
+                android:layout_height="fill_parent"
+                android:hint="@string/qing_yanzhengma"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <Button
+                android:textSize="14sp"
+                android:text="@string/huoqu"
+                android:id="@+id/yanzhengma_btn"
+                android:textColor="@color/white"
+                android:background="@drawable/button"
+                android:layout_toRightOf="@+id/yanzhengma_txt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_below="@+id/yanzhengma_R"
+            android:gravity="center_vertical"
+            android:id="@+id/mima_R"
+            android:layout_marginLeft="@dimen/fanhui_padding_left"
+            android:layout_marginRight="@dimen/fanhui_padding_left"
+            android:layout_marginTop="@dimen/K_top"
+            android:layout_width="fill_parent"
+            android:background="@drawable/shape"
+            android:layout_height="@dimen/K_height">
+
+            <EditText
+                android:hint="请输入密码"
+                android:id="@+id/psw"
+                android:background="@null"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+        </RelativeLayout>
+
+
+
+        <Button
+            android:background="@drawable/button"
+            android:textColor="@color/white"
+            android:id="@+id/zhuce"
+            android:textSize="16sp"
+            android:layout_marginLeft="@dimen/fanhui_padding_left"
+            android:layout_marginRight="@dimen/fanhui_padding_left"
+            android:layout_below="@+id/mima_R"
+            android:layout_marginTop="50dp"
+            android:layout_width="fill_parent"
+            android:text="@string/zhuce"
+            android:layout_height="@dimen/K_height" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_multi-image-selector" default="compile.module.multi-image-selector">
+  <dirname property="module.multi-image-selector.basedir" file="${ant.file.module_multi-image-selector}"/>
+  
+  <property name="module.jdk.home.multi-image-selector" value="${jdk.home.1.8}"/>
+  <property name="module.jdk.bin.multi-image-selector" value="${jdk.bin.1.8}"/>
+  <property name="module.jdk.classpath.multi-image-selector" value="jdk.classpath.1.8"/>
+  
+  <property name="compiler.args.multi-image-selector" value="-encoding GBK -source 1.6 ${compiler.args}"/>
+  
+  <property name="multi-image-selector.output.dir" value="${module.multi-image-selector.basedir}/../build/classes/production/multi-image-selector"/>
+  <property name="multi-image-selector.testoutput.dir" value="${module.multi-image-selector.basedir}/../build/classes/test/multi-image-selector"/>
+  
+  <path id="multi-image-selector.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="multi-image-selector.module.production.classpath">
+    <path refid="${module.jdk.classpath.multi-image-selector}"/>
+  </path>
+  
+  <path id="multi-image-selector.runtime.production.module.classpath">
+    <pathelement location="${multi-image-selector.output.dir}"/>
+  </path>
+  
+  <path id="multi-image-selector.module.classpath">
+    <path refid="${module.jdk.classpath.multi-image-selector}"/>
+    <pathelement location="${multi-image-selector.output.dir}"/>
+  </path>
+  
+  <path id="multi-image-selector.runtime.module.classpath">
+    <pathelement location="${multi-image-selector.testoutput.dir}"/>
+    <pathelement location="${multi-image-selector.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.multi-image-selector">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.multi-image-selector">
+    <patternset refid="excluded.from.module.multi-image-selector"/>
+  </patternset>
+  
+  
+  <target name="compile.module.multi-image-selector" depends="compile.module.multi-image-selector.production,compile.module.multi-image-selector.tests" description="Compile module multi-image-selector"/>
+  
+  <target name="compile.module.multi-image-selector.production" depends="register.custom.compilers" description="Compile module multi-image-selector; production classes"/>
+  
+  <target name="compile.module.multi-image-selector.tests" depends="register.custom.compilers,compile.module.multi-image-selector.production" description="compile module multi-image-selector; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.multi-image-selector" description="cleanup module">
+    <delete dir="${multi-image-selector.output.dir}"/>
+    <delete dir="${multi-image-selector.testoutput.dir}"/>
+  </target>
+</project>
