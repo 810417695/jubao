@@ -14,11 +14,11 @@ public final class R {
 		public static final int file_picker_folder = 0x7f02006e;
 		public static final int file_picker_home = 0x7f02006f;
 		public static final int file_picker_updir = 0x7f020070;
-		public static final int wheel_picker_line = 0x7f0200af;
+		public static final int wheel_picker_line = 0x7f0200b1;
 	}
 	public static final class id {
 		public static final int icon = 0x7f0d004f;
-		public static final int text = 0x7f0d00fb;
+		public static final int text = 0x7f0d00fc;
 	}
 	public static final class layout {
 		public static final int adapter_icon_text = 0x7f040031;
