@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/Top"
+        android:background="@color/white"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/top_height"
+        android:gravity="center_vertical">
+        <RelativeLayout
+            android:id="@+id/fanhui"
+            android:paddingLeft="@dimen/fanhui_padding_left"
+            android:paddingRight="@dimen/fanhui_padding_right"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical">
+            <ImageView
+                android:id="@+id/denglu_fanhui"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fanhui"/>
+        </RelativeLayout>
+        <TextView
+            android:textColor="@color/login_text_color"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/top_bottom"
+            android:layout_marginBottom="@dimen/top_bottom"
+            android:text="@string/denglu"
+            android:textSize="@dimen/login_title_size"
+            android:layout_marginRight="@dimen/ding_Right"
+            android:layout_toRightOf="@+id/fanhui"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+      </TextView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/bg"
+        android:background="@color/Background"
+        android:layout_below="@+id/souSuo_Top"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <RelativeLayout
+            android:gravity="center_vertical"
+            android:id="@+id/zhanghao_R"
+            android:layout_marginLeft="@dimen/fanhui_padding_left"
+            android:layout_marginRight="@dimen/fanhui_padding_left"
+            android:layout_marginTop="@dimen/K_top"
+            android:layout_width="fill_parent"
+            android:background="@drawable/shape"
+            android:layout_height="@dimen/K_height">
+
+            <TextView
+                android:id="@+id/zhanghao_txt"
+                android:textColor="@color/login_text_color"
+                android:textSize="18sp"
+                android:layout_marginLeft="@dimen/text_left_right"
+                android:layout_marginRight="@dimen/text_left_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login_zhanghao"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <EditText
+                android:hint="@string/shoujihao"
+                android:id="@+id/phone"
+                android:background="@null"
+                android:layout_toRightOf="@+id/zhanghao_txt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_below="@+id/zhanghao_R"
+            android:id="@+id/mima_R"
+            android:layout_marginLeft="@dimen/fanhui_padding_left"
+            android:layout_marginRight="@dimen/fanhui_padding_left"
+            android:layout_marginTop="@dimen/K_top"
+            android:layout_width="fill_parent"
+            android:background="@drawable/shape"
+            android:layout_height="@dimen/K_height">
+
+            <TextView
+                android:id="@+id/mima_txt"
+                android:textColor="@color/login_text_color"
+                android:textSize="18sp"
+                android:layout_marginLeft="@dimen/text_left_right"
+                android:layout_marginRight="@dimen/text_left_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login_password"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <EditText
+                android:hint="@string/mima"
+                android:background="@null"
+                android:id="@+id/passwd"
+                android:layout_toRightOf="@+id/mima_txt"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+        </RelativeLayout>
+
+        <Button
+            android:background="@drawable/button"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:id="@+id/login"
+            android:layout_marginLeft="@dimen/fanhui_padding_left"
+            android:layout_marginRight="@dimen/fanhui_padding_left"
+            android:layout_below="@+id/mima_R"
+            android:layout_marginTop="50dp"
+            android:layout_width="fill_parent"
+            android:text="@string/denglu"
+            android:layout_height="@dimen/K_height" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:button="@null"
+            android:background="@drawable/ispsw_radio"
+            android:id="@+id/radioButton"
+            android:layout_below="@+id/mima_R"
+            android:layout_alignLeft="@+id/login"
+            android:layout_alignStart="@+id/login" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="记住密码"
+            android:id="@+id/textView"
+            android:textSize="17dp"
+            android:layout_alignBottom="@+id/radioButton"
+            android:layout_toRightOf="@+id/radioButton"
+            android:layout_toEndOf="@+id/radioButton" />
+
+    </RelativeLayout>
+
+</LinearLayout>
