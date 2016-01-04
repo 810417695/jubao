@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/souSuo_Top"
+        android:background="@color/white"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/top_height"
+        android:gravity="center_vertical">
+        <RelativeLayout
+            android:id="@+id/fanhui"
+            android:paddingLeft="@dimen/fanhui_padding_left"
+            android:paddingRight="@dimen/fanhui_padding_right"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fanhui"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:gravity="center_vertical"
+            android:layout_marginTop="@dimen/top_bottom"
+            android:layout_marginBottom="@dimen/top_bottom"
+            android:paddingRight="@dimen/fanhui_padding_right"
+            android:layout_toRightOf="@+id/fanhui"
+            android:background="@drawable/shape"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <RelativeLayout
+                android:id="@+id/sousuo"
+                android:gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent">
+                <ImageView
+                    android:paddingLeft="12dp"
+                    android:paddingRight="8dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/fangdajing" />
+            </RelativeLayout>
+
+            <EditText
+                android:hint="请输入商品名称"
+                android:textSize="16sp"
+                android:textColor="@color/sousuo_Ed_textColor"
+                android:layout_toRightOf="@+id/sousuo"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@null"/>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:background="@color/Background"
+        android:layout_below="@+id/souSuo_Top"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <ListView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"></ListView>
+    </RelativeLayout>
+
+</RelativeLayout>
