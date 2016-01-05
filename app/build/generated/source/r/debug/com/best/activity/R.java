@@ -22,9 +22,11 @@ public final class R {
         public static final int cycle_7=0x7f05000a;
         public static final int fab_in=0x7f05000b;
         public static final int fab_out=0x7f05000c;
-        public static final int shake=0x7f05000d;
-        public static final int snackbar_in=0x7f05000e;
-        public static final int snackbar_out=0x7f05000f;
+        public static final int setting=0x7f05000d;
+        public static final int setting2=0x7f05000e;
+        public static final int shake=0x7f05000f;
+        public static final int snackbar_in=0x7f050010;
+        public static final int snackbar_out=0x7f050011;
     }
     public static final class array {
         public static final int jazzy_effects=0x7f0b0000;
