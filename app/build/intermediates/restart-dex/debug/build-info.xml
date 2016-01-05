@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <instant-run build-id="1451902467713" verifier="COMPATIBLE"><javac duration="876"/><instant-run-dex duration="200"/><instant-run-transform duration="3036"/><verifier duration="376"/></instant-run>
+=======
+<instant-run build-id="1451903339799"><javac duration="0"/><instant-run-dex duration="0"/><instant-run-transform duration="0"/><verifier duration="0"/></instant-run>
+>>>>>>> cf496c313fa894f0000c023cc093ece407b83aa6
