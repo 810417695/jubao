@@ -4,19 +4,16 @@
     tools:context="com.best.denglu.Login_Register">
     <ImageView
         android:id="@+id/backxxx0"
-        android:contentDescription="11111111"
         android:background="@drawable/backg"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
     <ImageView
         android:id="@+id/backxxx1"
-        android:contentDescription="222222"
         android:background="@drawable/backg"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
-
    <ImageView
        android:layout_width="100dp"
        android:layout_height="100dp"
@@ -61,6 +58,6 @@
         android:layout_marginRight="@dimen/fanhui_padding_left"
         android:layout_width="fill_parent"
         android:layout_height="50dp"
-        android:background="@drawable/zhuce_bg"/>
+        android:background="@drawable/zhuce_bg" />
 
 </RelativeLayout>
