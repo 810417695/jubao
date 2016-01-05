@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
-<<<<<<< HEAD
+    <item
+        jar="E:\jubao\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9720ca75feadd46aa103c458fc59c701014652ba">
+        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\classes_b9e5b293798c7fce9bc72a726b9b0b98932a777b.jar" />
+    </item>
     <item
         jar="E:\jubao\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5371ce3fee3426d56130296bfb4ed5bed04d161a">
+        sha1="b3eb41bdc420a96bcce9370a80f644338895ebde">
         <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\instant-run_d2199652ce531b2e3d0807ebb76b11b2da63a288.jar" />
-    </item>
-    <item
-        jar="C:\Users\xuguojunjun\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
-        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_92052b6f14101a4c9301f142f7559096a20277bf.jar" />
     </item>
     <item
         jar="E:\jubao\app\libs\nineoldandroids-2.4.0.jar"
@@ -24,39 +23,11 @@
         <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_a2dbe68b5c3ed43242187b7083d1275af83390a2.jar" />
     </item>
     <item
-        jar="E:\jubao\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jar="C:\Users\xuguojunjun\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_5c3f1920a55555eb981753341f1757d43e38f262.jar" />
-    </item>
-    <item
-        jar="E:\jubao\app\libs\SMSSDK-1.1.6.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="7e54148d164e6e61871547e4d9182fe1c2da6eb9">
-        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\SMSSDK-1.1.6_c6677d6f749fdd2ff66d3a7872d0875ecd93e2dc.jar" />
-    </item>
-    <item
-        jar="E:\jubao\app\libs\AnalysisSDK_0.0.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="fcbe3a962f6385d900d9b027e5b57877e60c3505">
-        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\AnalysisSDK_0.0.3_d17b658ab980ee52405326dd4dfd0d6800e47832.jar" />
-    </item>
-    <item
-        jar="E:\jubao\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_e78f8fffb7a1caf3f03b7bb0607a4c1c3dcdd68d.jar" />
-    </item>
-    <item
-        jar="E:\jubao\app\build\intermediates\incremental-classes\debug\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5d1645f0508336ce06b5ef239240c431d5b77cf8">
-        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\classes_b9e5b293798c7fce9bc72a726b9b0b98932a777b.jar" />
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_92052b6f14101a4c9301f142f7559096a20277bf.jar" />
     </item>
     <item
         jar="E:\jubao\app\build\intermediates\exploded-aar\org.xutils\xutils\3.1.24\jars\classes.jar"
@@ -87,6 +58,34 @@
         <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_0625bcf1bcc45e7eaa6c129a11c970da569ca6e5.jar" />
     </item>
     <item
+        jar="E:\jubao\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_5c3f1920a55555eb981753341f1757d43e38f262.jar" />
+    </item>
+    <item
+        jar="E:\jubao\app\libs\SMSSDK-1.1.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e54148d164e6e61871547e4d9182fe1c2da6eb9">
+        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\SMSSDK-1.1.6_c6677d6f749fdd2ff66d3a7872d0875ecd93e2dc.jar" />
+    </item>
+    <item
+        jar="E:\jubao\app\libs\AnalysisSDK_0.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcbe3a962f6385d900d9b027e5b57877e60c3505">
+        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\AnalysisSDK_0.0.3_d17b658ab980ee52405326dd4dfd0d6800e47832.jar" />
+    </item>
+    <item
+        jar="E:\jubao\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="E:\jubao\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.1_e78f8fffb7a1caf3f03b7bb0607a4c1c3dcdd68d.jar" />
+    </item>
+    <item
         jar="E:\Users\xuguojunjun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -95,5 +94,3 @@
     </item>
 
 </items>
-=======
->>>>>>> cf496c313fa894f0000c023cc093ece407b83aa6

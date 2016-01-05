@@ -3,12 +3,20 @@
     android:layout_height="match_parent"
     tools:context="com.best.denglu.Login_Register">
     <ImageView
-        android:id="@+id/backxxx"
+
+        android:id="@+id/backxxx0"
         android:background="@drawable/backg"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
-   <ImageView
+    <ImageView
+        android:id="@+id/backxxx1"
+        android:background="@drawable/backg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <ImageView
        android:layout_width="100dp"
        android:layout_height="100dp"
        android:src="@drawable/logo"

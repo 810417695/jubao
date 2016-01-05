@@ -8,58 +8,6 @@
         "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\choose_image_text_color.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\bundles\\debug\\res\\color\\choose_image_text_color.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\choose_image_folder_text_color.xml",
-        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\bundles\\debug\\res\\color\\choose_image_folder_text_color.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\choose_image_folder_text_color.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\bundles\\debug\\res\\color\\choose_image_folder_text_color.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\choose_image_text_color.xml",
-        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\bundles\\debug\\res\\color\\choose_image_text_color.xml"
-    },
-    {
         "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
@@ -72,32 +20,32 @@
         "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_search_url_text.xml"
+        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\choose_image_folder_text_color.xml",
+        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\bundles\\debug\\res\\color\\choose_image_folder_text_color.xml"
     },
     {
         "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\choose_image_text_color.xml",
+        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\bundles\\debug\\res\\color\\choose_image_text_color.xml"
     },
     {
         "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",

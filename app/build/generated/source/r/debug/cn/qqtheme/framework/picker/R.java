@@ -18,7 +18,7 @@ public final class R {
 	}
 	public static final class id {
 		public static final int icon = 0x7f0d004f;
-		public static final int text = 0x7f0d00fc;
+		public static final int text = 0x7f0d00fd;
 	}
 	public static final class layout {
 		public static final int adapter_icon_text = 0x7f040031;
