@@ -1,5 +1,13 @@
 [
     {
+        "merged": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\file_picker_updir.png",
+        "source": "E:\\jubao\\framework-picker\\src\\main\\res\\drawable-hdpi\\file_picker_updir.png"
+    },
+    {
+        "merged": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\file_picker_folder.png",
+        "source": "E:\\jubao\\framework-picker\\src\\main\\res\\drawable-hdpi\\file_picker_folder.png"
+    },
+    {
         "merged": "E:\\jubaom\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\file_picker_home.png",
         "source": "E:\\jubaom\\framework-picker\\src\\main\\res\\drawable-hdpi\\file_picker_home.png"
     },
@@ -16,8 +24,20 @@
         "source": "E:\\jubaom\\framework-picker\\src\\main\\res\\drawable-hdpi\\color_picker_cursor_bottom.png"
     },
     {
+        "merged": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wheel_picker_line.png",
+        "source": "E:\\jubao\\framework-picker\\src\\main\\res\\drawable-hdpi\\wheel_picker_line.png"
+    },
+    {
         "merged": "E:\\jubaom\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wheel_picker_line.png",
         "source": "E:\\jubaom\\framework-picker\\src\\main\\res\\drawable-hdpi\\wheel_picker_line.png"
+    },
+    {
+        "merged": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\color_picker_cursor_top.png",
+        "source": "E:\\jubao\\framework-picker\\src\\main\\res\\drawable-hdpi\\color_picker_cursor_top.png"
+    },
+    {
+        "merged": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\file_picker_file.png",
+        "source": "E:\\jubao\\framework-picker\\src\\main\\res\\drawable-hdpi\\file_picker_file.png"
     },
     {
         "merged": "E:\\jubaom\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\color_picker_cursor_top.png",
@@ -26,5 +46,13 @@
     {
         "merged": "E:\\jubaom\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\file_picker_file.png",
         "source": "E:\\jubaom\\framework-picker\\src\\main\\res\\drawable-hdpi\\file_picker_file.png"
+    },
+    {
+        "merged": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\file_picker_home.png",
+        "source": "E:\\jubao\\framework-picker\\src\\main\\res\\drawable-hdpi\\file_picker_home.png"
+    },
+    {
+        "merged": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\color_picker_cursor_bottom.png",
+        "source": "E:\\jubao\\framework-picker\\src\\main\\res\\drawable-hdpi\\color_picker_cursor_bottom.png"
     }
 ]
