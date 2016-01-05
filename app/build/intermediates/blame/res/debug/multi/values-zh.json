@@ -1,6 +1,7 @@
 [
     {
         "outputFile": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+<<<<<<< HEAD
         "map": [
             {
                 "to": {
@@ -101,6 +102,8 @@
     },
     {
         "outputFile": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+=======
+>>>>>>> dev
         "map": [
             {
                 "to": {
@@ -111,7 +114,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -130,7 +133,7 @@
                     "endOffset": 138
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -149,7 +152,7 @@
                     "endOffset": 194
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -168,7 +171,7 @@
                     "endOffset": 243
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -187,7 +190,7 @@
                     "endOffset": 282
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

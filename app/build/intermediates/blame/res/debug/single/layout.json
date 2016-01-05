@@ -1,17 +1,27 @@
 [
     {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_yunfei.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_add_yunfei.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_text.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_text.xml"
+>>>>>>> dev
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
@@ -26,40 +36,59 @@
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_lines.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_yunfeishezhi.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\actvity_yunfeishezhi.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wodedizhi.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_wodedizhi.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_action.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frament_dianpu.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\frament_dianpu.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_tab_icon.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bianjidianpu.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_bianjidianpu.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+>>>>>>> dev
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shanping.xml",
         "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_shanping.xml"
     },
@@ -414,12 +443,17 @@
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_youhuijuan.xml",
         "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_youhuijuan.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_youhuijuan.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\item_youhuijuan.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
@@ -430,12 +464,21 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item_folder.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\choose_list_item_folder.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login__register.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_login__register.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+>>>>>>> dev
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
@@ -446,44 +489,67 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item_text.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\layout\\choose_list_item_text.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frament_dianpu.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\frament_dianpu.xml"
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+>>>>>>> dev
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addfenlei.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_addfenlei.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_renzhengziliao.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_renzhengziliao.xml"
     },
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frament_dongtai.xml",
         "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\frament_dongtai.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item_folder.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\choose_list_item_folder.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addfenlei.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_addfenlei.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sousuo.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_sousuo.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item_camera.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\choose_list_item_camera.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shanping.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_shanping.xml"
     },
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item_camera.xml",
         "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\layout\\choose_list_item_camera.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar_include.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar_include.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_media.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
@@ -518,28 +584,78 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_shangpin.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_add_shangpin.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fenlei.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_fenlei.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_renzhengziliao.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_renzhengziliao.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiaoxi.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_xiaoxi.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shanping.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_shanping.xml"
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_cmp_customer_actionbar.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\choose_cmp_customer_actionbar.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sousuo.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_sousuo.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+>>>>>>> dev
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_main.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\crop_main.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dingdan.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\fragment_dingdan.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_shangpin.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_add_shangpin.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_separator.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_menu.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frament_add_dongtai.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\frament_add_dongtai.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -558,12 +674,21 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_text.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\item_text.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fenlei.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_fenlei.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+>>>>>>> dev
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addyunfei.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_addyunfei.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_1.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\viewpager_1.xml"
     },
@@ -574,40 +699,67 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bianjidizhi.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_bianjidizhi.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_snackbar.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\layout_snackbar.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qianbao.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_qianbao.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tianjiayouhuijuan.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_tianjiayouhuijuan.xml"
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fenlei_shangpin_layout.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\fenlei_shangpin_layout.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dongtai_layout.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\dongtai_layout.xml"
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login__register.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_login__register.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qianbao.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_qianbao.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_show.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\choose_show.xml"
+>>>>>>> dev
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shangpin.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\fragment_shangpin.xml"
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_yunfeishezhi.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\actvity_yunfeishezhi.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_text.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\item_text.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_text.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\item_text.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_1.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\viewpager_1.xml"
+>>>>>>> dev
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bianjidizhi.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_bianjidizhi.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_youhuijuan.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_youhuijuan.xml"
     },
@@ -618,12 +770,25 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dongtai_layout.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\dongtai_layout.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_1.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\viewpager_1.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item_image.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\choose_list_item_image.xml"
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login__register.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_login__register.xml"
+>>>>>>> dev
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shangpin.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\fragment_shangpin.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wodedizhi_listitem.xml",
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_wodedizhi_listitem.xml"
     },
@@ -642,14 +807,105 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvity_yunfeishezhi.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\actvity_yunfeishezhi.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frament_dongtai.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\frament_dongtai.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bianjidianpu.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_bianjidianpu.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shangpin.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\item_shangpin.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_youhuijuan.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_youhuijuan.xml"
+>>>>>>> dev
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item_text.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\choose_list_item_text.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_2.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\viewpager_2.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_icon_text.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\framework-picker\\unspecified\\res\\layout\\adapter_icon_text.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_activity_default.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout\\choose_activity_default.xml"
+>>>>>>> dev
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wodedizhi_listitem.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_wodedizhi_listitem.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+>>>>>>> dev
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_yunfei.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_add_yunfei.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fenlei_shangpin_layout.xml",
+        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\fenlei_shangpin_layout.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiaoxixiangqing.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_xiaoxixiangqing.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jiesuanzhanghu.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_jiesuanzhanghu.xml"
+>>>>>>> dev
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xiaoxi.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_xiaoxi.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_renzhengziliaono.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_renzhengziliaono.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_2.xml",
@@ -658,10 +914,11 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_icon_text.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\framework-picker\\unspecified\\res\\layout\\adapter_icon_text.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
@@ -672,40 +929,29 @@
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wodedizhi.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_wodedizhi.xml"
+<<<<<<< HEAD
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_main.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\viewpager_main.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_dingdan.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\fragment_dingdan.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_login.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fenlei_shangpin_layout.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\fenlei_shangpin_layout.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_screen_simple.xml"
+>>>>>>> dev
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_addyunfei.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_addyunfei.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_list_item_image.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\layout\\choose_list_item_image.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_main.xml",
@@ -716,28 +962,21 @@
         "source": "E:\\jubao\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_shangpin.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_add_shangpin.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_icon.xml",

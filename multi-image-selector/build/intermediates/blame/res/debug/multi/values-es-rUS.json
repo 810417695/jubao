@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\values-es-rUS\\values-es-rUS.xml",
+        "outputFile": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\values-es-rUS\\values-es-rUS.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 170
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-es-rUS\\values-es-rUS.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

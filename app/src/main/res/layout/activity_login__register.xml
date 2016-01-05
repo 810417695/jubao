@@ -9,15 +9,19 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dev
     <ImageView
         android:id="@+id/backxxx1"
         android:background="@drawable/backg"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
-   <ImageView
+
+    <ImageView
        android:layout_width="100dp"
        android:layout_height="100dp"
        android:src="@drawable/logo"

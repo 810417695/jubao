@@ -1,6 +1,7 @@
 [
     {
         "outputFile": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\values-w360dp-v13\\values-w360dp-v13.xml",
+<<<<<<< HEAD
         "map": [
             {
                 "to": {
@@ -25,6 +26,8 @@
     },
     {
         "outputFile": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\values-w360dp-v13\\values-w360dp-v13.xml",
+=======
+>>>>>>> dev
         "map": [
             {
                 "to": {
@@ -35,7 +38,7 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w360dp\\values-w360dp.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w360dp\\values-w360dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

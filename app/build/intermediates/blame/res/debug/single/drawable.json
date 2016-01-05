@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
@@ -10,12 +11,25 @@
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_back_dianpu.xml",
         "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\radio_back_dianpu.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border_xiao.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\shape_border_xiao.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ispsw_radio.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\ispsw_radio.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.9.png",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\shadow.9.png"
     },
     {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+>>>>>>> dev
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_button2.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\dingdan_button2.xml"
+    },
+    {
+<<<<<<< HEAD
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_button1.xml",
         "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\dingdan_button1.xml"
     },
@@ -26,197 +40,209 @@
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+=======
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\snackbar_background.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_rb_false.png",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\dingdan_rb_false.png"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_rb_bg.png",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\dingdan_rb_bg.png"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shaper_dizhibiankuang.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\shaper_dizhibiankuang.xml"
+>>>>>>> dev
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_back_dingdan.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\radio_back_dingdan.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button2.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\button2.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huahuiback.jpg",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\huahuiback.jpg"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_face.9.png",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\default_face.9.png"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fahuo.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\fahuo.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\fab_background.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huahui2back.jpg",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\huahui2back.jpg"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\bg.jpg"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_back_dongtai.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\radio_back_dongtai.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_back_shangpin.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\radio_back_shangpin.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bigreddot.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\bigreddot.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\bg.jpg"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kaiguan_lvse.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\kaiguan_lvse.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_rb.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\dingdan_rb.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\shape_border.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_button2.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\dingdan_button2.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_back_dongtai.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\radio_back_dongtai.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\fab_background.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backg.jpg",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\backg.jpg"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border_xiao.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\shape_border_xiao.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_jiugongge_jiacu.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\shape_jiugongge_jiacu.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_jiugongge_jiacu.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\shape_jiugongge_jiacu.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editext.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\editext.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huahui2back.jpg",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\huahui2back.jpg"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shouhuo.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\shouhuo.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\drawable\\snackbar_background.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editext.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\editext.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shouhuo.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\shouhuo.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_jiugongge.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\shape_jiugongge.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_btn.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\drawable\\action_btn.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fahuo.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\fahuo.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\shape.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiaogouback.jpg",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\xiaogouback.jpg"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_rb_false.png",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\dingdan_rb_false.png"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_back_dianpu.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\radio_back_dianpu.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\button.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.9.png",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\shadow.9.png"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shaper_dizhibiankuang.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\shaper_dizhibiankuang.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_rb.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\dingdan_rb.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backg.jpg",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\backg.jpg"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xiaogouback.jpg",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\xiaogouback.jpg"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_face.9.png",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\default_face.9.png"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reddot.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\reddot.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reddot.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\reddot.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_back_dingdan.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\radio_back_dingdan.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\button.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_btn.xml",
-        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\drawable\\action_btn.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huahuiback.jpg",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\huahuiback.jpg"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\shape.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_rb_bg.png",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\dingdan_rb_bg.png"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_border.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\shape_border.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_jiugongge.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\shape_jiugongge.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ispsw_radio.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\ispsw_radio.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kaiguan_lvse.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\kaiguan_lvse.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_back_shangpin.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\radio_back_shangpin.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bigreddot.xml",
-        "source": "E:\\jubaom\\app\\src\\main\\res\\drawable\\bigreddot.xml"
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dingdan_button1.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\dingdan_button1.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button2.xml",
+        "source": "E:\\jubao\\app\\src\\main\\res\\drawable\\button2.xml"
+    },
+    {
+        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
     }
 ]

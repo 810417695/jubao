@@ -1,6 +1,7 @@
 [
     {
         "outputFile": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\values-ky-rKG\\values-ky-rKG.xml",
+<<<<<<< HEAD
         "map": [
             {
                 "to": {
@@ -253,6 +254,8 @@
     },
     {
         "outputFile": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\values-ky-rKG\\values-ky-rKG.xml",
+=======
+>>>>>>> dev
         "map": [
             {
                 "to": {
@@ -263,7 +266,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -282,7 +285,7 @@
                     "endOffset": 249
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -301,7 +304,7 @@
                     "endOffset": 368
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -320,7 +323,7 @@
                     "endOffset": 452
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -339,7 +342,7 @@
                     "endOffset": 559
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -358,7 +361,7 @@
                     "endOffset": 676
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -377,7 +380,7 @@
                     "endOffset": 786
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -396,7 +399,7 @@
                     "endOffset": 893
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -415,7 +418,7 @@
                     "endOffset": 991
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -434,7 +437,7 @@
                     "endOffset": 1097
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -453,7 +456,7 @@
                     "endOffset": 1204
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -472,7 +475,7 @@
                     "endOffset": 1305
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -491,7 +494,7 @@
                     "endOffset": 1429
                 },
                 "from": {
-                    "file": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,

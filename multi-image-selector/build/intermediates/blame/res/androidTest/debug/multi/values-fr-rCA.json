@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+        "outputFile": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-fr-rCA\\values-fr-rCA.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 161
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

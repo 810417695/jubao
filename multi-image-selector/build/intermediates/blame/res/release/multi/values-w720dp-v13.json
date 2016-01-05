@@ -1,6 +1,7 @@
 [
     {
         "outputFile": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\values-w720dp-v13\\values-w720dp-v13.xml",
+<<<<<<< HEAD
         "map": [
             {
                 "to": {
@@ -25,6 +26,8 @@
     },
     {
         "outputFile": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\values-w720dp-v13\\values-w720dp-v13.xml",
+=======
+>>>>>>> dev
         "map": [
             {
                 "to": {
@@ -35,7 +38,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w720dp\\values-w720dp.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-w720dp\\values-w720dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,9 +1,12 @@
 [
     {
+<<<<<<< HEAD
         "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v14\\choose_fragment_multi_image.xml",
         "source": "E:\\jubaom\\multi-image-selector\\src\\main\\res\\layout-v14\\choose_fragment_multi_image.xml"
     },
     {
+=======
+>>>>>>> dev
         "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\debug\\layout-v14\\choose_fragment_multi_image.xml",
         "source": "E:\\jubao\\multi-image-selector\\src\\main\\res\\layout-v14\\choose_fragment_multi_image.xml"
     }

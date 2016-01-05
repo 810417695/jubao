@@ -2,9 +2,12 @@
     {
         "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\choose_fragment_multi_image.xml",
         "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\jubao\\multi-image-selector\\unspecified\\res\\layout-v14\\choose_fragment_multi_image.xml"
+<<<<<<< HEAD
     },
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14\\choose_fragment_multi_image.xml",
         "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\jubaom\\multi-image-selector\\unspecified\\res\\layout-v14\\choose_fragment_multi_image.xml"
+=======
+>>>>>>> dev
     }
 ]

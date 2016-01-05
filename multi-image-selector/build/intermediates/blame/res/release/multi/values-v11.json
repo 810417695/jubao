@@ -1,6 +1,7 @@
 [
     {
         "outputFile": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+<<<<<<< HEAD
         "map": [
             {
                 "to": {
@@ -355,6 +356,8 @@
     },
     {
         "outputFile": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\values-v11\\values-v11.xml",
+=======
+>>>>>>> dev
         "map": [
             {
                 "to": {
@@ -366,7 +369,7 @@
                     "endOffset": 469
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -387,7 +390,7 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -408,7 +411,7 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -429,7 +432,7 @@
                     "endOffset": 1748
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -450,7 +453,7 @@
                     "endOffset": 2177
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -471,7 +474,7 @@
                     "endOffset": 2602
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -491,7 +494,7 @@
                     "endOffset": 2691
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -510,7 +513,7 @@
                     "endOffset": 2792
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -530,7 +533,7 @@
                     "endOffset": 3200
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -551,7 +554,7 @@
                     "endOffset": 3620
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -572,7 +575,7 @@
                     "endOffset": 3727
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -593,7 +596,7 @@
                     "endOffset": 3856
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -614,7 +617,7 @@
                     "endOffset": 4220
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -634,7 +637,7 @@
                     "endOffset": 4291
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -653,7 +656,7 @@
                     "endOffset": 4374
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
@@ -673,7 +676,7 @@
                     "endOffset": 8123
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
@@ -694,7 +697,7 @@
                     "endOffset": 12012
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 120,
                         "startColumn": 4,

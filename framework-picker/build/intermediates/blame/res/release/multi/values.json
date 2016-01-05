@@ -1,6 +1,7 @@
 [
     {
         "outputFile": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+<<<<<<< HEAD
         "map": [
             {
                 "to": {
@@ -25,6 +26,8 @@
     },
     {
         "outputFile": "E:\\jubaom\\framework-picker\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+=======
+>>>>>>> dev
         "map": [
             {
                 "to": {
@@ -35,7 +38,7 @@
                     "endOffset": 104
                 },
                 "from": {
-                    "file": "E:\\jubaom\\framework-picker\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\jubao\\framework-picker\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,

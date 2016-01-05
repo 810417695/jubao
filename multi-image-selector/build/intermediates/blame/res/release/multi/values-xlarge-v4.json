@@ -1,6 +1,7 @@
 [
     {
         "outputFile": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\values-xlarge-v4\\values-xlarge-v4.xml",
+<<<<<<< HEAD
         "map": [
             {
                 "to": {
@@ -139,6 +140,8 @@
     },
     {
         "outputFile": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\values-xlarge-v4\\values-xlarge-v4.xml",
+=======
+>>>>>>> dev
         "map": [
             {
                 "to": {
@@ -149,7 +152,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -168,7 +171,7 @@
                     "endOffset": 191
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -187,7 +190,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -206,7 +209,7 @@
                     "endOffset": 325
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -225,7 +228,7 @@
                     "endOffset": 391
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -244,7 +247,7 @@
                     "endOffset": 457
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -263,7 +266,7 @@
                     "endOffset": 512
                 },
                 "from": {
-                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
+                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-xlarge\\values-xlarge.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
