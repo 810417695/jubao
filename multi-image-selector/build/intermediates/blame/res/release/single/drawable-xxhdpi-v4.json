@@ -12,12 +12,12 @@
         "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
         "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
         "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
