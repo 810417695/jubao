@@ -1,6 +1,6 @@
 package com.best.util;
 
-import android.content.Context;
+import android.util.Log;
 
 import org.xutils.common.Callback;
 import org.xutils.common.util.MD5;
@@ -13,7 +13,6 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Set;
 
 /**
  * Created by Vonte on 2015/12/16.
@@ -41,7 +40,13 @@ public class HttpUtils {
         for(int j=0;j<map.size();j++){
             params.addQueryStringParameter(list.get(j),map.get(list.get(j)));
         }
-        map.put("sign",MD5.md5(qingqiu));
+        Log.i("GG","请求："+qingqiu);
+        if("".equals(map)){
+
+            map.put("sign",MD5.md5(qingqiu));
+        }else {
+            map.put("sign",MD5.md5(qingqiu));
+        }
         params.addQueryStringParameter("sign",map.get("sign"));
         //返回JSON数据
         x.http().post(params,callback);
@@ -68,7 +73,7 @@ public class HttpUtils {
         for(int j=0;j<map.size();j++){
             params.addQueryStringParameter(list.get(j),map.get(list.get(j)));
         }
-        map.put("sign",MD5.md5(qingqiu));
+        map.put("sign", MD5.md5(qingqiu));
         params.addQueryStringParameter("sign",map.get("sign"));
         //输出传输/返回数据
         System.out.println(params.getQueryStringParams());

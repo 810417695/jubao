@@ -193,7 +193,7 @@ public class ZhuceActivity extends BaseActivity {
             } else {
                 ((Throwable) data).printStackTrace();
                 Toast.makeText(getApplicationContext(), "验证失败", Toast.LENGTH_SHORT).show();
-                mProgressDialog.dismiss();
+//                mProgressDialog.dismiss();
             }
 
         }

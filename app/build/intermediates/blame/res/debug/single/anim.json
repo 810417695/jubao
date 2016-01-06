@@ -1,56 +1,59 @@
 [
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_in.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\snackbar_out.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_enter.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
+        "source": "E:\\jubaom\\app\\src\\main\\res\\anim\\shake.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\fab_in.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\fab_out.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
+        "source": "E:\\jubaom\\app\\src\\main\\res\\anim\\cycle_7.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\snackbar_in.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shake.xml",
-        "source": "E:\\jubao\\app\\src\\main\\res\\anim\\shake.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\setting.xml",
-        "source": "E:\\jubao\\app\\src\\main\\res\\anim\\setting.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotating.xml",
+        "source": "E:\\jubaom\\app\\src\\main\\res\\anim\\rotating.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_7.xml",
-        "source": "E:\\jubao\\app\\src\\main\\res\\anim\\cycle_7.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_out.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\fab_out.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_exit.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
-<<<<<<< HEAD
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\setting.xml",
         "source": "E:\\jubaom\\app\\src\\main\\res\\anim\\setting.xml"
+    },
+    {
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\setting2.xml",
@@ -59,29 +62,21 @@
     {
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_out_top.xml"
-=======
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_out.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\snackbar_out.xml"
->>>>>>> dev
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_in.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\snackbar_in.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_in.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\22.2.1\\res\\anim\\fab_in.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\setting2.xml",
-        "source": "E:\\jubao\\app\\src\\main\\res\\anim\\setting2.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\jubaom\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "E:\\jubao\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\anim\\abc_fade_out.xml"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\anim\\reverse_anim.xml",
+        "source": "E:\\jubaom\\app\\src\\main\\res\\anim\\reverse_anim.xml"
     }
 ]

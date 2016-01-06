@@ -1,16 +1,19 @@
 package com.best.fram;
 
-import android.app.Activity;
-import android.support.v4.app.Fragment;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.support.annotation.Nullable;
+import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
+import android.widget.ListView;
 import android.widget.RadioButton;
 
 import com.best.activity.R;
+import com.jingchen.pulltorefresh.PullToRefreshLayout;
 
 /**
  * Created by Z on 2015/12/17.
@@ -18,15 +21,19 @@ import com.best.activity.R;
 public class DingDanFragment extends Fragment {
 
     RadioButton dingdan_rb,shouhou_rb,dd_all,dd_daifukuan,dd_daifahuo,dd_yifahuo,dd_yiwancheng,sh_yishenqing,sh_yituihuo,sh_tongyi,sh_jujue;
-    LinearLayout dingdan_ll,shouhou_ll;
+    LinearLayout dingdan_ll,shouhou_ll,demo_layout;
+    int list_shu = 10;
+    int shangti = 0 ;
+    ListView demo_list;
 
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = LayoutInflater.from(getActivity()).inflate(R.layout.fragment_dingdan,container,false);
 
-
-
+        ((PullToRefreshLayout) view.findViewById(R.id.rotate_header_web_view_frame))
+                .setOnRefreshListener(new MyListener());
+        demo_layout = (LinearLayout) view.findViewById(R.id.demo_layout);
         dingdan_rb = (RadioButton) view.findViewById(R.id.dingdan_rb);
         shouhou_rb = (RadioButton) view.findViewById(R.id.shouhou_rb);
         dingdan_ll = (LinearLayout) view.findViewById(R.id.dingdan_dingdan);
@@ -160,6 +167,45 @@ public class DingDanFragment extends Fragment {
             }
         });
         return view;
+    }
+
+    /***
+     * 下拉刷新 上提加载
+     */
+    public class MyListener implements PullToRefreshLayout.OnRefreshListener
+    {
+        //刷新
+        @Override
+        public void onRefresh(final PullToRefreshLayout pullToRefreshLayout)
+        {
+            new Handler()
+            {
+                @Override
+                public void handleMessage(Message msg)
+                {
+                    list_shu = 10;
+                    shangti = 0;
+                    shangpin_list.clear();
+                    AddShangPin(pullToRefreshLayout);
+//                    pullToRefreshLayout.refreshFinish(PullToRefreshLayout.SUCCEED);
+                }
+            }.sendEmptyMessageDelayed(0, 1000);
+        }
+        //加载
+        @Override
+        public void onLoadMore(final PullToRefreshLayout pullToRefreshLayout)
+        {
+            new Handler()
+            {
+                @Override
+                public void handleMessage(Message msg)
+                {
+                    list_shu = list_shu + 10 ;
+                    AddShangPin(pullToRefreshLayout);
+//                    pullToRefreshLayout.loadmoreFinish(PullToRefreshLayout.SUCCEED);
+                }
+            }.sendEmptyMessageDelayed(0, 1000);
+        }
     }
 
 

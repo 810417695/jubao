@@ -10,6 +10,13 @@
     <color name="shouye_text_color">#f8935f</color>
     <color name="textcolor">#666</color>
     <color name="holo_blue">#FF33E5B5</color>
+
+    <color name="shuaxin_text_color">#969696</color>
+
+    <color name="black">#000000</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="list_button_xian">#dad8c9</color>
+
     <!--搜索页面-->
     <color name="sousuo_Ed_textColor">#cccccc</color>
 

@@ -119,11 +119,31 @@
                 android:layout_height="wrap_content"
                 android:text="@string/yiwancheng" />
         </RadioGroup>
-        <ListView
+        <LinearLayout
+            android:id="@+id/demo_layout"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="fill_parent">
+            <com.jingchen.pulltorefresh.PullToRefreshLayout
+                android:id="@+id/rotate_header_web_view_frame"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
 
-        </ListView>
+                <include layout="@layout/refresh_head" />
+
+                <com.jingchen.pulltorefresh.pullableview.PullableListView
+                    android:id="@+id/content_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:divider="@color/list_button_xian"
+                    android:dividerHeight="0.2dp" />
+
+                <include layout="@layout/load_more" />
+
+            </com.jingchen.pulltorefresh.PullToRefreshLayout>
+
+        </LinearLayout>
+
     </LinearLayout>
 
 

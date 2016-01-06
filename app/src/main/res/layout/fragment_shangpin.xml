@@ -41,21 +41,21 @@
 
             <ImageView
                 android:src="@drawable/fangdajing"
-                android:id="@+id/zhanghao_txt"
+                android:id="@+id/sousuo_Img"
                 android:textColor="@color/login_text_color"
                 android:textSize="18sp"
-                android:layout_marginLeft="@dimen/text_left_right"
+                android:layout_marginLeft="12dp"
                 android:layout_marginRight="@dimen/text_left_right"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/login_zhanghao"
                 android:layout_centerVertical="true"
                 android:layout_alignParentLeft="true"
                 android:layout_alignParentStart="true" />
             <EditText
+                android:id="@+id/sousuo_Nrirong"
                 android:hint="@string/qsrspmc"
                 android:background="@null"
-                android:layout_toRightOf="@+id/zhanghao_txt"
+                android:layout_toRightOf="@+id/sousuo_Img"
                 android:layout_width="wrap_content"
                 android:layout_height="fill_parent" />
 
@@ -149,11 +149,31 @@
 
     <!--ListView-->
 
-        <ListView
-            android:id="@+id/demo_layout"
-            android:visibility="visible"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"></ListView>
+    <LinearLayout
+        android:id="@+id/demo_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <com.jingchen.pulltorefresh.PullToRefreshLayout
+            android:id="@+id/rotate_header_web_view_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <include layout="@layout/refresh_head" />
+
+            <com.jingchen.pulltorefresh.pullableview.PullableListView
+                android:id="@+id/content_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:divider="@color/list_button_xian"
+                android:dividerHeight="0.2dp" />
+
+            <include layout="@layout/load_more" />
+
+        </com.jingchen.pulltorefresh.PullToRefreshLayout>
+
+    </LinearLayout>
+
 
     <!--分类-->
         <ListView

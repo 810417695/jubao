@@ -21,10 +21,7 @@ public class Login_Register extends BaseActivity {
     private ImageView backxxx0;
     @ViewInject(R.id.backxxx1)
     private ImageView backxxx1;
-<<<<<<< HEAD
 
-=======
->>>>>>> dev
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -34,10 +31,6 @@ public class Login_Register extends BaseActivity {
         Animation anim2 = AnimationUtils.loadAnimation(this, R.anim.setting2);
         ImageView animationTopLeftView = (ImageView)this.findViewById(R.id.backxxx1);
         animationTopLeftView.startAnimation(anim2);
-<<<<<<< HEAD
-
-=======
->>>>>>> dev
     }
 
 

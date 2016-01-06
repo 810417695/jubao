@@ -1,21 +1,10 @@
 [
     {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\logo.png",
-        "source": "E:\\jubao\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+        "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\logo.png",
+        "source": "E:\\jubaom\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
     },
     {
-<<<<<<< HEAD
         "merged": "E:\\jubaom\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "E:\\jubaom\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\logo.png",
-        "source": "E:\\jubao\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
-    },
-    {
-=======
->>>>>>> dev
-        "merged": "E:\\jubao\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
-        "source": "E:\\jubao\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

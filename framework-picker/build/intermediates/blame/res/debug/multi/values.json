@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "E:\\jubaom\\framework-picker\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 104
                 },
                 "from": {
-                    "file": "E:\\jubao\\framework-picker\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 1,
-                        "startColumn": 4,
-                        "startOffset": 17,
-                        "endColumn": 53,
-                        "endOffset": 66
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "E:\\jubao\\framework-picker\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 53,
-                    "endOffset": 104
-                },
-                "from": {
-                    "file": "E:\\jubao\\framework-picker\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\jubaom\\framework-picker\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,

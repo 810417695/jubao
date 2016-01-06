@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-port\\values-port.xml",
+        "outputFile": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,31 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 55,
-                        "endOffset": 346
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "E:\\jubao\\multi-image-selector\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "E:\\jubao\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-port\\values-port.xml",
+                    "file": "E:\\jubaom\\multi-image-selector\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.1\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
